@@ -1,4 +1,3 @@
-package acadgild;
 import java.util.Scanner;
 
 public class PrintMonDays {
